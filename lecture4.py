@@ -1,1 +1,0 @@
-info= fu # type: ignore
